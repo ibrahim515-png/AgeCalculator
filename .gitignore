@@ -1,3 +1,4 @@
+```gitignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -28,8 +29,6 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # PyInstaller
-# Usually these files are written by a python script from a template
-# before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
 
@@ -75,3 +74,7 @@ dmypy.json
 
 # Local settings
 settings.local.json
+
+# Project-generated files
+age.txt
+```
